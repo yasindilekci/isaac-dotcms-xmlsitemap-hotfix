@@ -1,0 +1,1 @@
+"# isaac-dotcms-xmlsitemap-hotfix" 
